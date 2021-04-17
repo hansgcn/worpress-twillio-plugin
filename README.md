@@ -1,5 +1,5 @@
 # worpress-twillio-plugin
-Wordpress/WooCommerce Twillio Transacional SMS plugin
+Wordpress/WooCommerce Twillio Transactional SMS plugin
 
 This is a simple WordPress/WooCommerce Twillio plugin for your transactional SMS.
 
